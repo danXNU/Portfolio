@@ -122,7 +122,7 @@ Framework e tecnologie utilizzate:
 App pubblicate su Google Play
 
 
-* ## [iGio](https://apps.apple.com/it/app/igio/id1493029812) (Android)
+* ## [iGio](https://play.google.com/store/apps/details?id=com.salesiani_ile.igio_android&hl=en_US&gl=US) (Android)
 ![](igio.png)
 iGio è un’app che ho scritto e che continuo a sviluppare per Marco Begato (Ispettoria Salesiana Lombardo Emiliana). 
 iGio è pensata come strumento  per l’accompagnamento personale per i giovani.
