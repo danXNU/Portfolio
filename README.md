@@ -88,9 +88,12 @@ Framework e tecnologie utilizzate:
 
 
 * ## [CNC Studenti](https://apps.apple.com/it/app/cnc-studenti/id1221038173) (iOS, iPadOS)
-![](studentu.png)
 Questa app inizialmente permetteva di vedere le verifiche e i compiti assegnati dai professori. Gli utenti potevano poi inserire i voti che ricevevano nei test e da questo l’app mostrava la media complessiva e per ogni materia.
 Il mio passaggio ad un’altra scuola ha causato la rimozione di molte delle funzioni visto che non erano più necessarie nella nuova scuola.
+
+![CNC Studenti images](https://github.com/danXNU/Portfolio/blob/main/resources/cncstudenti/1.png)
+![CNC Studenti images](https://github.com/danXNU/Portfolio/blob/main/resources/cncstudenti/2.png)
+![CNC Studenti images](https://github.com/danXNU/Portfolio/blob/main/resources/cncstudenti/3.png)
 
 * Anno di pubblicazione su App Store: 2018
 * Ultimo aggiornamento: Febbraio 2020
