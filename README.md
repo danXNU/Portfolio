@@ -3,6 +3,7 @@ Mi chiamo Daniel e sono uno sviluppatore indipendente da quando avevo 17 anni (2
 Nel corso degli anni ho pubblicato diverse applicazioni sull’App Store e creato altrettanti progetti presenti nel mio profilo GitHub.
 In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una breve spiegazione comprendente delle tecnologie/librerie utilizzate.
 
+**Indice:**
 * [App su App Store](#app-su-app-store)
 * [App su Google Play](#app-su-google-play)
 * [Elettronica (Internet of Things)](#elettronica-internet-of-things) 
@@ -90,7 +91,11 @@ Framework e tecnologie utilizzate:
 **Fasi finali di sviluppo.**
 Questa app permette di registrare e monitorare il tempo che la propria auto impiega per raggiungere una determinata velocità. Una sorta di cronometro che però funziona automaticamente. Appena l'auto accelera, il cronometro parte e mostra un grafico in tempo reale che segna l'andamento della velocità. Appena la macchina raggiunge la velocità stabilita, il cronometro si ferma e salva la registrazione in un file per poterlo riguardare in futuro.
 
+Questa app sarà rilasciata gratuitamente e il codice sarà disponibile sul mio GitHub.
 
+![CarSpeedTest+ images](https://github.com/danXNU/Portfolio/blob/main/resources/carspeedtest/1.png)
+![CarSpeedTest+ images](https://github.com/danXNU/Portfolio/blob/main/resources/carspeedtest/2.png)
+![CarSpeedTest+ images](https://github.com/danXNU/Portfolio/blob/main/resources/carspeedtest/3.png)
 
 Framework e tecnologie utilizzate:
 1. SwiftUI
