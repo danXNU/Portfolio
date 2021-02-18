@@ -73,8 +73,10 @@ Framework e tecnologie utilizzate:
 
 
 * ## [iRingTunes+](https://apps.apple.com/it/app/iringtunes/id1253595081) (iOS, iPadOS, macOS)
-![](iringtunes.png)
 Questa app è stata la mia prima app in assoluto e permette di esportare un file m4r (suonerie iPhone) dalla libreria musicale del telefono o da un file su Mac.
+
+![iRungTunes+ images](https://github.com/danXNU/Portfolio/blob/main/resources/iringtunes/1.png)
+![iRingTunes+ images](https://github.com/danXNU/Portfolio/blob/main/resources/iringtunes/2.png)
 
 * Anno di pubblicazione su App Store: 2017
 * Ultimo aggiornamento: dicembre 2020
