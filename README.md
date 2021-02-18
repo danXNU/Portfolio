@@ -143,11 +143,11 @@ Framework e tecnologie utilizzate:
 Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all’IoT.
 
 
-* ## danHome (Linux, macOS, Arduino)
+* ## danHome (Linux, macOS, Arduino) - Ancora in sviluppo
 
 
 
-* ## danHome-Android (Android)
+* ## danHome-Android (Android) - Ancora in sviluppo
 Client per controllare I dispositivi e le impostazioni del mio progetto danHome.
 
 
@@ -175,7 +175,7 @@ Apparecchiature utilizzate:
 
 
 * ## ToxCoreHome (iOS)
-Questo progetto è il client che permette di controllare ~ToxHomePy~.
+Questo progetto è il client che permette di controllare [ToxHomePy](#toxhomepy-linux-macos).
 Interfaccia e funzionalità simili al funzionamento dell’app Shortcuts/Comandi di Apple. 
 Anche questo permetteva di aggiungere delle Siri Shortcuts per far funzionare tutto con l’assistente vocale.
 
