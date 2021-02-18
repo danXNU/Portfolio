@@ -11,7 +11,7 @@ In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una br
 
 - - - -
 # App su App Store
-Qua sono elencate le app che ho pubblicato sull’App Store di Apple.
+Qui sono elencate le app che ho pubblicato sull’App Store di Apple: [WatchNotes](#watchnotes-ios-ipados-watchos-macos), [Home Inventory+](#home-inventory-ios-ipados), [FileEncryptor](#fileencryptor-ios-ipados-macos), [iRingTunes+](#iringtunes-ios-ipados-macos), [CNC Studenti](#cnc-studenti-ios-ipados) e [iGio](#igio-ios-ipados)
 
 
 * ## [WatchNotes](https://apps.apple.com/it/app/watch-notes/id1299477480) (iOS, iPadOS, watchOS, macOS) 
@@ -99,7 +99,6 @@ Framework e tecnologie utilizzate:
 
 
 
-
 * ## [iGio](https://apps.apple.com/it/app/igio/id1493029812) (iOS, iPadOS)
 ![](igio.png)
 iGio è un’app che ho scritto e che continuo a sviluppare per Marco Begato (Ispettoria Salesiana Lombardo Emiliana). 
@@ -119,7 +118,7 @@ Framework e tecnologie utilizzate:
 
 - - - -
 # App su Google Play
-App pubblicate su Google Play
+Qui sono elencate le app pubblicate su Google Play: [iGio](#igio-android)
 
 
 * ## [iGio](https://play.google.com/store/apps/details?id=com.salesiani_ile.igio_android&hl=en_US&gl=US) (Android)
@@ -140,14 +139,16 @@ Framework e tecnologie utilizzate:
 
 - - - -
 # Elettronica (Internet of Things)
-Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all’IoT.
+Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all’IoT: [danHome](#danhome-linux-macos-arduino), [danHome-Android](#danhome-android), [ToxHomePy](#toxhomepy-linux-macos) e [ToxCoreHome](#toxcorehome-ios).
 
 
-* ## danHome (Linux, macOS, Arduino) - Ancora in sviluppo
+* ## danHome (Linux, macOS, Arduino)
+**Ancora in sviluppo**
 
 
 
-* ## danHome-Android (Android) - Ancora in sviluppo
+* ## danHome-Android
+**Ancora in sviluppo**
 Client per controllare I dispositivi e le impostazioni del mio progetto danHome.
 
 
@@ -189,7 +190,7 @@ Tecnologie utilizzate:
 
 - - - -
 # Augmented Reality
-Qui sono elencate le app o piccoli progetti che implementano funzionalità di realtà aumentata.
+Qui sono elencate le app o piccoli progetti che implementano funzionalità di realtà aumentata: [ARPortal-Hogwarts](#arportal-hogwarts) e [Pneumatica-ARKit](#pneumatica-arkit-ios).
 
 
 * ## ARPortal-Hogwarts
@@ -213,7 +214,7 @@ Tecnologie utilizzate:
 
 - - - -
 # Altri progetti
-Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie
+Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie: [Pneumatica-Spritekit](#pneumatica-spritekit-ios), [ARRemote](#arremote-ios).
 
 * ## [Pneumatica-SpriteKit](https://github.com/danXNU/Pneumatica-SpriteKit-iOS) (iOS)
 Progetto che ho sviluppato per la mia tesina di quarta. Ha lo stesso funzionamento di [Pneumatica-ARKit](#pneumatica-arkit-ios) (descritto sopra), ma invece di utilizzare la realtà aumentata, ho utilizzato SpriteKit per creare un'esperienza in 2D.
