@@ -243,6 +243,9 @@ Le potenzialità di questo progetto sono tante e ho intenzione di continuarlo qu
 Oppure aggiungere telecamere posteriori alla macchina e vedere lo streaming video direttamente dentro l'app.
 
 Ecco alcune immagini del progetto:
+![TeslaPandino images](https://github.com/danXNU/Portfolio/blob/main/resources/pandino/1.png)
+![TeslaPandino images](https://github.com/danXNU/Portfolio/blob/main/resources/pandino/2.png)
+
 
 Tecnologie utilizzate: 
 1. SwiftUI
