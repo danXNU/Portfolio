@@ -11,7 +11,7 @@ In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una br
 
 - - - -
 # App su App Store
-Qui sono elencate le app che ho pubblicato sull’App Store di Apple: [WatchNotes](#watchnotes-ios-ipados-watchos-macos), [Home Inventory+](#home-inventory-ios-ipados), [FileEncryptor](#fileencryptor-ios-ipados-macos), [iRingTunes+](#iringtunes-ios-ipados-macos), [CNC Studenti](#cnc-studenti-ios-ipados) e [iGio](#igio-ios-ipados)
+Qui sono elencate le app che ho pubblicato sull’App Store di Apple: [WatchNotes](#watchnotes-ios-ipados-watchos-macos), [Home Inventory+](#home-inventory-ios-ipados), [FileEncryptor](#fileencryptor-ios-ipados-macos), [Car SpeedTest+](#car-speedtest-ios-ipados), [iRingTunes+](#iringtunes-ios-ipados-macos), [CNC Studenti](#cnc-studenti-ios-ipados) e [iGio](#igio-ios-ipados)
 
 
 * ## [WatchNotes](https://apps.apple.com/it/app/watch-notes/id1299477480) (iOS, iPadOS, watchOS, macOS) 
@@ -85,6 +85,16 @@ Framework e tecnologie utilizzate:
 2. UIKit
 3. AVFoundation
 4. Foundation
+
+* ## Car SpeedTest+ (iOS, iPadOS)
+**Fasi finali di sviluppo.**
+Questa app permette di registrare e monitorare il tempo che la propria auto impiega per raggiungere una determinata velocità. Una sorta di cronometro che però funziona automaticamente. Appena l'auto accelera, il cronometro parte e mostra un grafico in tempo reale che segna l'andamento della velocità. Appena la macchina raggiunge la velocità stabilita, il cronometro si ferma e salva la registrazione in un file per poterlo riguardare in futuro.
+
+
+
+Framework e tecnologie utilizzate:
+1. SwiftUI
+2. CoreLocation
 
 
 * ## [CNC Studenti](https://apps.apple.com/it/app/cnc-studenti/id1221038173) (iOS, iPadOS)
