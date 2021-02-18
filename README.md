@@ -257,6 +257,8 @@ Tecnologie utilizzate:
 * ## [Pneumatica-SpriteKit](https://github.com/danXNU/Pneumatica-SpriteKit-iOS) (iOS)
 Progetto che ho sviluppato per la mia tesina di quarta. Ha lo stesso funzionamento di [Pneumatica-ARKit](#pneumatica-arkit-ios) (descritto sopra), ma invece di utilizzare la realtà aumentata, ho utilizzato SpriteKit per creare un'esperienza in 2D.
 
+![Pneumatica SpriteKit images](https://github.com/danXNU/Portfolio/blob/main/resources/pneumaticaspritekit/1.png)
+
 Tecnologie utilizzate:
 1. SpriteKit
 2. UIKit
