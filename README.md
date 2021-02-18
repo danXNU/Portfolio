@@ -5,16 +5,15 @@ In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una br
 
 * [App su App Store](#app-su-app-store)
 * [App su Google Play](#app-su-google-play)
-* [Elettronica (Internet of Things)](#elettronica) 
+* [Elettronica (Internet of Things)](#elettronica-internet-of-things) 
 * [Augmented Reality](#augmented-reality)
 * [Altri progetti](#altri-progetti)
 
 - - - -
-## App su App Store
+# App su App Store
 Qua sono elencate le app che ho pubblicato sull’App Store di Apple.
 
 
- 
 ### [WatchNotes](https://apps.apple.com/it/app/watch-notes/id1299477480) (iOS, iPadOS, watchOS, macOS) 
 ![](WNicon.png)
 WatchNotes è un’app che permette di creare note su iPhone, iPod, iPad e Mac. C’è poi un’app su Apple Watch che permette di leggere le note sul proprio polso.
@@ -119,7 +118,7 @@ Framework e tecnologie utilizzate:
 
 
 - - - -
-## App su Google Play
+# App su Google Play
 App pubblicate su Google Play
 
 
@@ -140,7 +139,7 @@ Framework e tecnologie utilizzate:
 
 
 - - - -
-## Elettronica (Internet of Things)
+# Elettronica (Internet of Things)
 Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all’IoT.
 
 
@@ -189,7 +188,7 @@ Tecnologie utilizzate:
 
 
 - - - -
-## Augmented Reality
+# Augmented Reality
 Qui sono elencate le app o piccoli progetti che implementano funzionalità di realtà aumentata.
 
 
@@ -198,5 +197,5 @@ Piccolo progetto per testare la creazione di un portale che permette di entrare 
 
 
 - - - -
-## Altri progetti
+# Altri progetti
 Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie
