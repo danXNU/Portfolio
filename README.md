@@ -111,9 +111,12 @@ Framework e tecnologie utilizzate:
 
 
 * ## [iGio](https://apps.apple.com/it/app/igio/id1493029812) (iOS, iPadOS)
-![](igio.png)
 iGio è un’app che ho scritto e che continuo a sviluppare per Marco Begato (Ispettoria Salesiana Lombardo Emiliana). 
 iGio è pensata come strumento  per l’accompagnamento personale per i giovani.
+
+![iGio images](https://github.com/danXNU/Portfolio/blob/main/resources/igio/1.png)
+![iGio images](https://github.com/danXNU/Portfolio/blob/main/resources/igio/2.png)
+![iGio images](https://github.com/danXNU/Portfolio/blob/main/resources/igio/3.png)
 
 * Anno di pubblicazione su App Store: Gennaio 2020
 * Ultimo aggiornamento: Gennaio 2021
