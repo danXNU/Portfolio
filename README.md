@@ -149,6 +149,7 @@ Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all
 
 * ## danHome-Android
 **Ancora in sviluppo**
+
 Client per controllare I dispositivi e le impostazioni del mio progetto danHome.
 
 
