@@ -3,8 +3,8 @@ Sono attualmente uno sviluppatore indipendente e ho iniziato nel 2017.
 Nel corso degli anni ho pubblicato diverse applicazioni sull’App Store e creato altrettanti progetti presenti nel mio profilo GitHub.
 In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una breve spiegazione comprendente delle tecnologie/librerie utilizzate.
 
-* App su App Store
-* App su Google Play
+* [App su App Store](#app-su-app-store)
+* [App su Google Play](#app-su-google-play)
 * Elettronica (Internet of Things)
 * Augmented Reality
 * Altre app
