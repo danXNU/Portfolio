@@ -37,8 +37,11 @@ Framework e tecnologie utilizzate:
 
 
 * ## [Home Inventory+](https://apps.apple.com/it/app/home-inventory/id1537446653) (iOS, iPadOS)
-![](Inventory+.png)
 Home Inventory+ è un’app che permette di catalogare tutti i propri averi all’interno della casa. Permette poi di ritrovarli facilmente e ottenere delle statistiche oppure esportare tutti i dati in CSV
+
+![Home Inventory+ images](https://github.com/danXNU/Portfolio/blob/main/resources/inventory/1.png)
+![Home Inventory+ images](https://github.com/danXNU/Portfolio/blob/main/resources/inventory/2.png)
+![Home Inventory+ images](https://github.com/danXNU/Portfolio/blob/main/resources/inventory/3.png)
 
 * Anno di pubblicazione su App Store: 2020
 * Ultimo aggiornamento: Gennaio 2021
