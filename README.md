@@ -14,7 +14,7 @@ In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una br
 Qua sono elencate le app che ho pubblicato sull’App Store di Apple.
 
 
-### [WatchNotes](https://apps.apple.com/it/app/watch-notes/id1299477480) (iOS, iPadOS, watchOS, macOS) 
+* ## [WatchNotes](https://apps.apple.com/it/app/watch-notes/id1299477480) (iOS, iPadOS, watchOS, macOS) 
 ![](WNicon.png)
 WatchNotes è un’app che permette di creare note su iPhone, iPod, iPad e Mac. C’è poi un’app su Apple Watch che permette di leggere le note sul proprio polso.
 
@@ -33,7 +33,7 @@ Framework e tecnologie utilizzate:
 9. Foundation
 
 
-### [Home Inventory+](https://apps.apple.com/it/app/home-inventory/id1537446653) (iOS, iPadOS)
+* ## [Home Inventory+](https://apps.apple.com/it/app/home-inventory/id1537446653) (iOS, iPadOS)
 ![](Inventory+.png)
 Home Inventory+ è un’app che permette di catalogare tutti i propri averi all’interno della casa. Permette poi di ritrovarli facilmente e ottenere delle statistiche oppure esportare tutti i dati in CSV
 
@@ -50,7 +50,7 @@ Framework e tecnologie utilizzate:
 
 
 
-### [FileEncryptor](https://apps.apple.com/it/app/fileencryptor/id1527000197) (iOS, iPadOS, macOS)
+* ## [FileEncryptor](https://apps.apple.com/it/app/fileencryptor/id1527000197) (iOS, iPadOS, macOS)
 ![](FileEncryptor.png)
 FileEncryptor è un’app che permette di cifrare e decifrare file utilizzando una password. All’interno viene usato un algoritmo di cifratura standard utilizzato dal framework CryptoKit.
 
@@ -65,11 +65,11 @@ Framework e tecnologie utilizzate:
 
 
 
-### [iRingTunes+](https://apps.apple.com/it/app/iringtunes/id1253595081) (iOS, iPadOS, macOS)
+* ## [iRingTunes+](https://apps.apple.com/it/app/iringtunes/id1253595081) (iOS, iPadOS, macOS)
 ![](iringtunes.png)
 Questa app è stata la mia prima app in assoluto e permette di esportare un file m4r (suonerie iPhone) dalla libreria musicale del telefono o da un file su Mac.
 
-*  Anno di pubblicazione su App Store: 2017
+* Anno di pubblicazione su App Store: 2017
 * Ultimo aggiornamento: dicembre 2020
 
 Framework e tecnologie utilizzate:
@@ -79,7 +79,7 @@ Framework e tecnologie utilizzate:
 4. Foundation
 
 
-### [CNC Studenti](https://apps.apple.com/it/app/cnc-studenti/id1221038173) (iOS, iPadOS)
+* ## [CNC Studenti](https://apps.apple.com/it/app/cnc-studenti/id1221038173) (iOS, iPadOS)
 ![](studentu.png)
 Questa app inizialmente permetteva di vedere le verifiche e i compiti assegnati dai professori. Gli utenti potevano poi inserire i voti che ricevevano nei test e da questo l’app mostrava la media complessiva e per ogni materia.
 Il mio passaggio ad un’altra scuola ha causato la rimozione di molte delle funzioni visto che non erano più necessarie nella nuova scuola.
@@ -100,7 +100,7 @@ Framework e tecnologie utilizzate:
 
 
 
-### [iGio](https://apps.apple.com/it/app/igio/id1493029812) (iOS, iPadOS)
+* ## [iGio](https://apps.apple.com/it/app/igio/id1493029812) (iOS, iPadOS)
 ![](igio.png)
 iGio è un’app che ho scritto e che continuo a sviluppare per Marco Begato (Ispettoria Salesiana Lombardo Emiliana). 
 iGio è pensata come strumento  per l’accompagnamento personale per i giovani.
@@ -122,7 +122,7 @@ Framework e tecnologie utilizzate:
 App pubblicate su Google Play
 
 
-### [iGio](https://apps.apple.com/it/app/igio/id1493029812) (Android)
+* ## [iGio](https://apps.apple.com/it/app/igio/id1493029812) (Android)
 ![](igio.png)
 iGio è un’app che ho scritto e che continuo a sviluppare per Marco Begato (Ispettoria Salesiana Lombardo Emiliana). 
 iGio è pensata come strumento  per l’accompagnamento personale per i giovani.
@@ -143,15 +143,15 @@ Framework e tecnologie utilizzate:
 Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all’IoT.
 
 
-### danHome (Linux, macOS, Arduino)
+* ## danHome (Linux, macOS, Arduino)
 
 
 
-### danHome-Android (Android)
+* ## danHome-Android (Android)
 Client per controllare I dispositivi e le impostazioni del mio progetto ~danHome~.
 
 
-### ToxHomePy (Linux, macOS)
+* ## ToxHomePy (Linux, macOS)
 Progetto di una Smart-Home utilizzato per il talent show di Padernello a settembre 2018. 
 È stato scritto in Python e aveva la caratteristica di essere estremamente dinamico. Permetteva ai vari dispositivi di comunicare tra loro attraverso una runtime, simile a come funziona il linguaggio di programmazione Objective-C.
 Questo runtime poi mandava i comandi all’Arduino tramite seriale.
@@ -174,7 +174,7 @@ Apparecchiature utilizzate:
 5. Arduino Mega
 
 
-### ToxCoreHome (iOS)
+* ## ToxCoreHome (iOS)
 Questo progetto è il client che permette di controllare ~ToxHomePy~.
 Interfaccia e funzionalità simili al funzionamento dell’app Shortcuts/Comandi di Apple. 
 Anche questo permetteva di aggiungere delle Siri Shortcuts per far funzionare tutto con l’assistente vocale.
