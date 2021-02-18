@@ -5,9 +5,9 @@ In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una br
 
 * [App su App Store](#app-su-app-store)
 * [App su Google Play](#app-su-google-play)
-* Elettronica (Internet of Things)
-* Augmented Reality
-* Altre app
+* [Elettronica (Internet of Things)](#elettronica) 
+* [Augmented Reality](#augmented-reality)
+* [Altri progetti](#altri-progetti)
 
 - - - -
 ## App su App Store
@@ -197,3 +197,6 @@ Qui sono elencate le app o piccoli progetti che implementano funzionalità di re
 Piccolo progetto per testare la creazione di un portale che permette di entrare in un mondo virtuale. In questo caso
 
 
+- - - -
+## Altri progetti
+Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie
