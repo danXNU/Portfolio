@@ -215,7 +215,21 @@ Tecnologie utilizzate:
 
 - - - -
 # Altri progetti
-Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie: [Pneumatica-Spritekit](#pneumatica-spritekit-ios), [ARRemote](#arremote-ios).
+Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie: [Tesla-Pandino](#tesla-pandino-ios-ipados-macos), [Pneumatica-Spritekit](#pneumatica-spritekit-ios), [ARRemote](#arremote-ios).
+
+* ## [Tesla-Pandino](https://github.com/danXNU/Pandino) (iOS, iPadOS, macOS)
+Questo è un progetto che ha lo scopo di ricreare una sorta di infotainment simile a quello che si trova sulle macchine Tesla. Si può collegare anche ai Led di una particolare azienda tramite Bluetooth e controllare i colori, l'accensione e la modalità. Per ottenere i messaggi bluetooth giusti da inviare, ho dovuto creare un tweak su un iPhone jailbroken per permettermi di loggare tutti i messaggi che l'app ufficiale dell'azienda dei led utilizzava per i vari comandi.
+Le potenzialità di questo progetto sono tante e ho intenzione di continuarlo quando avrò la mia macchina. Un mio obbiettivo è quello di collegare un Raspberry-Pi alla porta OBD2 della macchina e mandare i messaggi da lì a quest'app (tramite Bluetooth) e poter vedere in tempo reale tutte le statistiche.
+Oppure aggiungere telecamere posteriori alla macchina e vedere lo streaming video direttamente dentro l'app.
+
+Ecco alcune immagini del progetto:
+
+Tecnologie utilizzate: 
+1. SwiftUI
+2. CoreBluetooth
+3. MapKit
+4. CoreLocation
+5. Logos (Objective-C hooking per loggare i messaggi)
 
 * ## [Pneumatica-SpriteKit](https://github.com/danXNU/Pneumatica-SpriteKit-iOS) (iOS)
 Progetto che ho sviluppato per la mia tesina di quarta. Ha lo stesso funzionamento di [Pneumatica-ARKit](#pneumatica-arkit-ios) (descritto sopra), ma invece di utilizzare la realtà aumentata, ho utilizzato SpriteKit per creare un'esperienza in 2D.
