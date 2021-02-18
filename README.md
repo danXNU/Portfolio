@@ -1,5 +1,5 @@
 # Portfolio
-Sono uno sviluppatore indipendente da quando avevo 17 anni (2017).
+Mi chiamo Daniel e sono uno sviluppatore indipendente da quando avevo 17 anni (2017).
 Nel corso degli anni ho pubblicato diverse applicazioni sull’App Store e creato altrettanti progetti presenti nel mio profilo GitHub.
 In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una breve spiegazione comprendente delle tecnologie/librerie utilizzate.
 
