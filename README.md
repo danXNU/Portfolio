@@ -17,7 +17,9 @@ Qui sono elencate le app che ho pubblicato sull’App Store di Apple: [WatchNote
 * ## [WatchNotes](https://apps.apple.com/it/app/watch-notes/id1299477480) (iOS, iPadOS, watchOS, macOS) 
 WatchNotes è un’app che permette di creare note su iPhone, iPod, iPad e Mac. C’è poi un’app su Apple Watch che permette di leggere le note sul proprio polso.
 
-![WatchNotes images](https://github.com/danXNU/Portfolio/resources/watchnotes/1.png)
+![WatchNotes images](https://github.com/danXNU/Portfolio/blob/main/resources/watchnotes/1.png)
+![WatchNotes images](https://github.com/danXNU/Portfolio/blob/main/resources/watchnotes/3.png)
+![WatchNotes images](https://github.com/danXNU/Portfolio/blob/main/resources/watchnotes/2.png)
 
 * Anno di pubblicazione su App Store: 2017
 * Ultimo aggiornamento: Febbraio 2021
