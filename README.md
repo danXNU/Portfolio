@@ -136,9 +136,12 @@ Qui sono elencate le app pubblicate su Google Play: [iGio](#igio-android)
 
 
 * ## [iGio](https://play.google.com/store/apps/details?id=com.salesiani_ile.igio_android&hl=en_US&gl=US) (Android)
-![](igio.png)
 iGio è un’app che ho scritto e che continuo a sviluppare per Marco Begato (Ispettoria Salesiana Lombardo Emiliana). 
 iGio è pensata come strumento  per l’accompagnamento personale per i giovani.
+
+![iGio images](https://github.com/danXNU/Portfolio/blob/main/resources/igioandroid/1.png)
+![iGio images](https://github.com/danXNU/Portfolio/blob/main/resources/igioandroid/2.png)
+![iGio images](https://github.com/danXNU/Portfolio/blob/main/resources/igioandroid/3.png)
 
 * Anno di pubblicazione su Google Play: Gennaio 2020
 * Ultimo aggiornamento: Gennaio 2021
