@@ -57,8 +57,9 @@ Framework e tecnologie utilizzate:
 
 
 * ## [FileEncryptor](https://apps.apple.com/it/app/fileencryptor/id1527000197) (iOS, iPadOS, macOS)
-![](FileEncryptor.png)
 FileEncryptor è un’app che permette di cifrare e decifrare file utilizzando una password. All’interno viene usato un algoritmo di cifratura standard utilizzato dal framework CryptoKit.
+
+![FileEncryptor images](https://github.com/danXNU/Portfolio/blob/main/resources/fileencryptor/1.png)
 
 * Anno di pubblicazione su App Store: 2020
 * Ultimo aggiornamento: luglio 2020
