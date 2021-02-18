@@ -192,10 +192,32 @@ Tecnologie utilizzate:
 Qui sono elencate le app o piccoli progetti che implementano funzionalità di realtà aumentata.
 
 
-### ARPortal-Hogwarts
-Piccolo progetto per testare la creazione di un portale che permette di entrare in un mondo virtuale. In questo caso
+* ## ARPortal-Hogwarts
+Piccolo progetto per testare la creazione di un portale che permette di entrare in un mondo virtuale. In questo caso ho usato un modello di Hogwarts.
+Ho fatto un piccolo [video](https://www.instagram.com/p/CI6XjC_Bh5n/?igshid=croj26wxy2pw) di dimostrazione.
 
+Tecnlogie utilizzate:
+1. ARKit with People Occlusion
+2. SceneKit
+3. UIKit
+
+
+* ## Pneumatica-ARKit (iOS)
+Progetto fatto per la mia tesina di quarta superiore. È un piccolo simulatore ed editor di impianti pneumatici in realtà aumentata. Si possono aggiungere dispositivi, modificare i collegamenti e azionare le valvole. Si può controllare tramite il touch screen del telefono oppure collegare un altro iPhone e usarlo come teledomando grazie a delle gestures (tramite un'altra app che ho scritto, chiamata [ARRemote](#arremote-ios)).
+
+Tecnologie utilizzate:
+1. ARKit
+2. SceneKit
+3. MultipeerConnectivity
+4. UIKit
 
 - - - -
 # Altri progetti
 Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie
+
+* ## ARRemote (iOS)
+App che funziona da telecomando per la mia app [Pneumatica-ARKit](#pneumatica-arkit-ios). Ha delle gestures preconfigurate e serve per dare comandi tramite Bluetooth all'altro iPhone quando si utilizza con un visore di AR.
+
+Tecnologie utilizzate:
+1. UIKit
+2. MultipeerConnectivity
