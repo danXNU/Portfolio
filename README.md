@@ -1,5 +1,5 @@
 # Portfolio
-Sono attualmente uno sviluppatore indipendente e ho iniziato nel 2017.
+Sono attualmente uno sviluppatore indipendente da quando avevo 17 anni (2017).
 Nel corso degli anni ho pubblicato diverse applicazioni sull’App Store e creato altrettanti progetti presenti nel mio profilo GitHub.
 In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una breve spiegazione comprendente delle tecnologie/librerie utilizzate.
 
@@ -148,14 +148,14 @@ Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all
 
 
 * ## danHome-Android (Android)
-Client per controllare I dispositivi e le impostazioni del mio progetto ~danHome~.
+Client per controllare I dispositivi e le impostazioni del mio progetto danHome.
 
 
 * ## ToxHomePy (Linux, macOS)
 Progetto di una Smart-Home utilizzato per il talent show di Padernello a settembre 2018. 
 È stato scritto in Python e aveva la caratteristica di essere estremamente dinamico. Permetteva ai vari dispositivi di comunicare tra loro attraverso una runtime, simile a come funziona il linguaggio di programmazione Objective-C.
 Questo runtime poi mandava i comandi all’Arduino tramite seriale.
-Come client per il controllo di questo sistema, ho scritto ~ToxCoreHome~ per iOS.
+Per controllare il sistema, ho scritto un'app client per iOS (chiamata [ToxCoreHome](#toxcorehome-ios)).
 
 Tecnologie e librerie utilizzate:
 1. Python
