@@ -151,7 +151,7 @@ Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all
 Client per controllare I dispositivi e le impostazioni del mio progetto danHome.
 
 
-* ## ToxHomePy (Linux, macOS)
+* ## [ToxHomePy](https://github.com/danXNU/ToxHomePy) (Linux, macOS)
 Progetto di una Smart-Home utilizzato per il talent show di Padernello a settembre 2018. 
 È stato scritto in Python e aveva la caratteristica di essere estremamente dinamico. Permetteva ai vari dispositivi di comunicare tra loro attraverso una runtime, simile a come funziona il linguaggio di programmazione Objective-C.
 Questo runtime poi mandava i comandi all’Arduino tramite seriale.
@@ -174,7 +174,7 @@ Apparecchiature utilizzate:
 5. Arduino Mega
 
 
-* ## ToxCoreHome (iOS)
+* ## [ToxCoreHome](https://github.com/danXNU/ToxCoreHomePadernello) (iOS)
 Questo progetto è il client che permette di controllare [ToxHomePy](#toxhomepy-linux-macos).
 Interfaccia e funzionalità simili al funzionamento dell’app Shortcuts/Comandi di Apple. 
 Anche questo permetteva di aggiungere delle Siri Shortcuts per far funzionare tutto con l’assistente vocale.
@@ -202,7 +202,7 @@ Tecnlogie utilizzate:
 3. UIKit
 
 
-* ## Pneumatica-ARKit (iOS)
+* ## [Pneumatica-ARKit](https://github.com/danXNU/Pneumatica-ARKit) (iOS)
 Progetto fatto per la mia tesina di quarta superiore. È un piccolo simulatore ed editor di impianti pneumatici in realtà aumentata. Si possono aggiungere dispositivi, modificare i collegamenti e azionare le valvole. Si può controllare tramite il touch screen del telefono oppure collegare un altro iPhone e usarlo come teledomando grazie a delle gestures (tramite un'altra app che ho scritto, chiamata [ARRemote](#arremote-ios)).
 
 Tecnologie utilizzate:
@@ -215,14 +215,14 @@ Tecnologie utilizzate:
 # Altri progetti
 Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie
 
-* ## Pneumatica-SpriteKit (iOS)
+* ## [Pneumatica-SpriteKit](https://github.com/danXNU/Pneumatica-SpriteKit-iOS) (iOS)
 Progetto che ho sviluppato per la mia tesina di quarta. Ha lo stesso funzionamento di [Pneumatica-ARKit](#pneumatica-arkit-ios) (descritto sopra), ma invece di utilizzare la realtà aumentata, ho utilizzato SpriteKit per creare un'esperienza in 2D.
 
 Tecnologie utilizzate:
 1. SpriteKit
 2. UIKit
 
-* ## ARRemote (iOS)
+* ## [ARRemote](https://github.com/danXNU/ARRemote) (iOS)
 App che funziona da telecomando per la mia app [Pneumatica-ARKit](#pneumatica-arkit-ios). Ha delle gestures preconfigurate e serve per dare comandi tramite Bluetooth all'altro iPhone quando si utilizza con un visore di AR.
 
 Tecnologie utilizzate:
