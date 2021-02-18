@@ -1,5 +1,5 @@
 # Portfolio
-Sono attualmente uno sviluppatore indipendente da quando avevo 17 anni (2017).
+Sono uno sviluppatore indipendente da quando avevo 17 anni (2017).
 Nel corso degli anni ho pubblicato diverse applicazioni sull’App Store e creato altrettanti progetti presenti nel mio profilo GitHub.
 In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una breve spiegazione comprendente delle tecnologie/librerie utilizzate.
 
@@ -214,6 +214,13 @@ Tecnologie utilizzate:
 - - - -
 # Altri progetti
 Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie
+
+* ## Pneumatica-SpriteKit (iOS)
+Progetto che ho sviluppato per la mia tesina di quarta. Ha lo stesso funzionamento di [Pneumatica-ARKit](#pneumatica-arkit-ios) (descritto sopra), ma invece di utilizzare la realtà aumentata, ho utilizzato SpriteKit per creare un'esperienza in 2D.
+
+Tecnologie utilizzate:
+1. SpriteKit
+2. UIKit
 
 * ## ARRemote (iOS)
 App che funziona da telecomando per la mia app [Pneumatica-ARKit](#pneumatica-arkit-ios). Ha delle gestures preconfigurate e serve per dare comandi tramite Bluetooth all'altro iPhone quando si utilizza con un visore di AR.
