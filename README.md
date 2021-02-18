@@ -215,6 +215,9 @@ Qui sono elencate le app o piccoli progetti che implementano funzionalità di re
 Piccolo progetto per testare la creazione di un portale che permette di entrare in un mondo virtuale. In questo caso ho usato un modello di Hogwarts.
 Ho fatto un piccolo [video](https://www.instagram.com/p/CI6XjC_Bh5n/?igshid=croj26wxy2pw) di dimostrazione.
 
+![ARPortal images](https://github.com/danXNU/Portfolio/blob/main/resources/arportal/1.png)
+![ARPortal images](https://github.com/danXNU/Portfolio/blob/main/resources/arportal/2.png)
+
 Tecnlogie utilizzate:
 1. ARKit with People Occlusion
 2. SceneKit
