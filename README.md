@@ -8,6 +8,7 @@ In questo portfolio troverai tutto quello su cui ho lavorato negli anni e una br
 * [App su Google Play](#app-su-google-play)
 * [Elettronica (Internet of Things)](#elettronica-internet-of-things) 
 * [Augmented Reality](#augmented-reality)
+* [Tweaks per iOS Jailbroken](#tweaks-ios-jailbroken)
 * [Altri progetti](#altri-progetti)
 
 - - - -
@@ -254,6 +255,29 @@ Tecnologie utilizzate:
 4. UIKit
 
 - - - -
+# Tweaks iOS Jailbroken 
+Qui sono elencati i tweak per iOS Jailbroken: [edmodo-fixer](#edmodo-fixer-ios-jailbroken) e [classroom-bypass](#classroom-bypass).
+
+
+* ## Edmodo-fixer (iOS Jailbroken)
+Nella mia scuola si utilizzava Edmodo per gestire i compiti e verifiche che mandavano i professori durante il lockdown.
+Questo tweak ha lo scopo di risolvere il problema dove per qualche motivo non permetteva di scaricare i file zip nell'app su iOS.
+Utilizza Logos (Objective-C) per sostituire l'implementation dei metodi scritti dell'app.
+
+Tecnologie utilizzate:
+1. Logos (Objective-C)
+2. Theos
+3. Hopper (per il reverse engeneering dell'app).
+
+
+* ## Classroom-bypass
+In quarta superiore abbiamo iniziato ad utilizzare gli iPad con un profilo MDM dove i prof potevano controllare gli studenti tramite l'app Classroom di Apple.
+Ho sviluppato questo tweak per bypassare alcune limitazioni e continuare a usare il dispositivo liberamente.
+Lo ho sviluppato per mettermi alla prova, non per scopi che andavano contro la policy della mia scuola (ho anche avvisato i professori della faccenda).
+
+Ecco qui [un video](https://www.instagram.com/p/Bz4IamRIbgN/?igshid=14hyutj391alh) dove mostro come bypasso i limiti sull'apertura delle app grazie ad un comando da Apple Watch.
+
+- - - -
 # Altri progetti
 Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie: [Tesla-Pandino](#tesla-pandino-ios-ipados-macos), [Pneumatica-Spritekit](#pneumatica-spritekit-ios), [ARRemote](#arremote-ios).
 
@@ -287,6 +311,7 @@ Ho creato anche un piccolo [video reveal](https://youtu.be/PRTD4aTQoQI) del prog
 Tecnologie utilizzate:
 1. SpriteKit
 2. UIKit
+
 
 * ## [ARRemote](https://github.com/danXNU/ARRemote) (iOS)
 App che funziona da telecomando per la mia app [Pneumatica-ARKit](#pneumatica-arkit-ios). Ha delle gestures preconfigurate e serve per dare comandi tramite Bluetooth all'altro iPhone quando si utilizza con un visore di AR.
