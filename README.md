@@ -172,13 +172,24 @@ Framework e tecnologie utilizzate:
 
 - - - -
 # Elettronica (Internet of Things)
-Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all’IoT: [danHome](#danhome-linux-macos-arduino), [danHome-Android](#danhome-android), [ToxHomePy](#toxhomepy-linux-macos) e [ToxCoreHome](#toxcorehome-ios).
+Qui sono elencati tutti i progetti che ho svolto nel corso degli anni legati all’IoT: [danHome](#danhome-linux-macos-arduino), [danHome-iOS](#danhome-ios), [danHome-Android](#danhome-android), [ToxHomePy](#toxhomepy-linux-macos) e [ToxCoreHome](#toxcorehome-ios).
 
 
 * ## danHome (Linux, macOS, Arduino)
 **Ancora in sviluppo**
 
+danHome è un progetto che sto sviluppando per trasformare la mia casa e quella di un parente in smart home. Il progetto utilizza il Raspberry-Pi come cervello del sistema e l'Arduino Mega come controller delle apparecchiature. Questo progetto possiederà queste caratteristiche:
+1. Sarà molto dinamico nel controllo della logica del programma. Si potranno modificare gli eventi e gli handlers di questi (funzionamento simile a Shortcts di Apple).
+2. Avrà la possibilità di eseguire gli aggiornamenti OTA (over the air).
+3. Possibilità di ricevere notifiche per gli eventi (utilizzando il servizio di OneSignal).
+4. Avrà la possibilità di aggiungere più utenti nella stessa casa in modo da avere diversi tipi di privilegi
+5. Supporterà il controllo tramite assistente vocale (grazie alle shortcuts)
+6. Avrà un sistema di log molto robusto in modo da vedere ogni tipo di warning o errore in modo chiaro e semplice.
 
+* ## danHome-iOS
+**Ancora in sviluppo**
+
+Client per controllare I dispositivi e le impostazioni del mio progetto danHome.
 
 * ## danHome-Android
 **Ancora in sviluppo**
@@ -211,7 +222,7 @@ Apparecchiature utilizzate:
 
 * ## [ToxCoreHome](https://github.com/danXNU/ToxCoreHomePadernello) (iOS)
 Questo progetto è il client che permette di controllare [ToxHomePy](#toxhomepy-linux-macos).
-Interfaccia e funzionalità simili al funzionamento dell’app Shortcuts/Comandi di Apple. 
+Funzionalità simili al funzionamento dell’app Shortcuts/Comandi di Apple. 
 Anche questo permetteva di aggiungere delle Siri Shortcuts per far funzionare tutto con l’assistente vocale.
 
 ![ToxCoreHome images](https://github.com/danXNU/Portfolio/blob/main/resources/homepadernello-ios/1.png)
