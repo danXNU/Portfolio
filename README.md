@@ -213,12 +213,17 @@ Questo progetto è il client che permette di controllare [ToxHomePy](#toxhomepy-
 Interfaccia e funzionalità simili al funzionamento dell’app Shortcuts/Comandi di Apple. 
 Anche questo permetteva di aggiungere delle Siri Shortcuts per far funzionare tutto con l’assistente vocale.
 
+![ToxCoreHome images](https://github.com/danXNU/Portfolio/blob/main/resources/homepadernello-ios/1.png)
+![ToxCoreHome images](https://github.com/danXNU/Portfolio/blob/main/resources/homepadernello-ios/2.png)
+![ToxCoreHome images](https://github.com/danXNU/Portfolio/blob/main/resources/homepadernello-ios/3.png)
+
 Tecnologie utilizzate:
 1. UIKit
 2. Siri Shortcuts (Intents)
 3. [BlueSocket](https://github.com/Kitura/BlueSocket)
 
 * Carthage (framework manager)
+* Swift Package Manager (aggiornato nel 2021)
 
 
 - - - -
