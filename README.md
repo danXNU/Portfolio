@@ -256,10 +256,10 @@ Tecnologie utilizzate:
 
 - - - -
 # Tweaks iOS Jailbroken 
-Qui sono elencati i tweak per iOS Jailbroken: [edmodo-fixer](#edmodo-fixer-ios-jailbroken) e [classroom-bypass](#classroom-bypass).
+Qui sono elencati i tweak per iOS Jailbroken: [edmodo-fixer](#edmodo-fixer-ios-jailbroken) e [classroom-bypass](#classroom-bypass-ios-jailbroken).
 
 
-* ## Edmodo-fixer (iOS Jailbroken)
+* ## [Edmodo-fixer](https://github.com/danXNU/edmodofixer) (iOS Jailbroken)
 Nella mia scuola si utilizzava Edmodo per gestire i compiti e verifiche che mandavano i professori durante il lockdown.
 Questo tweak ha lo scopo di risolvere il problema dove per qualche motivo non permetteva di scaricare i file zip nell'app su iOS.
 Utilizza Logos (Objective-C) per sostituire l'implementation dei metodi scritti dell'app.
@@ -270,7 +270,7 @@ Tecnologie utilizzate:
 3. Hopper (per il reverse engeneering dell'app).
 
 
-* ## Classroom-bypass
+* ## [Classroom-bypass](https://github.com/danXNU/toxd-apple-classroom-bypass) (iOS Jailbroken)
 In quarta superiore abbiamo iniziato ad utilizzare gli iPad con un profilo MDM dove i prof potevano controllare gli studenti tramite l'app Classroom di Apple.
 Ho sviluppato questo tweak per bypassare alcune limitazioni e continuare a usare il dispositivo liberamente.
 Lo ho sviluppato per mettermi alla prova, non per scopi che andavano contro la policy della mia scuola (ho anche avvisato i professori della faccenda).
