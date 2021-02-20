@@ -290,7 +290,7 @@ Ecco qui [un video](https://www.instagram.com/p/Bz4IamRIbgN/?igshid=14hyutj391al
 
 - - - -
 # Altri progetti
-Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie: [Tesla-Pandino](#tesla-pandino-ios-ipados-macos), [Pneumatica-Spritekit](#pneumatica-spritekit-ios), [ARRemote](#arremote-ios).
+Qui sono elencati gli altri progetti che non appartengono a nessuna delle precedenti categorie: [Tesla-Pandino](#tesla-pandino-ios-ipados-macos), [Pneumatica-Spritekit](#pneumatica-spritekit-ios), [Studenti-Flutter](#cnc-studenti-flutter) e [ARRemote](#arremote-ios).
 
 * ## [Tesla-Pandino](https://github.com/danXNU/Pandino) (iOS, iPadOS, macOS)
 Questo è un progetto che ha lo scopo di ricreare una sorta di infotainment simile a quello che si trova sulle macchine Tesla. Si può collegare anche ai Led di una particolare azienda tramite Bluetooth e controllare i colori, l'accensione e la modalità. 
@@ -323,6 +323,8 @@ Tecnologie utilizzate:
 1. SpriteKit
 2. UIKit
 
+* ## [CNC Studenti-Flutter](https://github.com/danXNU/Studenti-Flutter)
+Piccolo esperimento con Flutter. Ho ricreato la mia app [CNC Studenti](#cnc-studenti-ios-ipados) di iOS per Android utilizzando Flutter.
 
 * ## [ARRemote](https://github.com/danXNU/ARRemote) (iOS)
 App che funziona da telecomando per la mia app [Pneumatica-ARKit](#pneumatica-arkit-ios). Ha delle gestures preconfigurate e serve per dare comandi tramite Bluetooth all'altro iPhone quando si utilizza con un visore di AR.
